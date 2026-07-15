@@ -43,7 +43,7 @@ Clone the repository and open the project directory:
 
 ```bash
 git clone https://github.com/Tilro1707/AstroidShooter.git
-cd AstroidShooter
+cd asteroidShooter
 ```
 
 Start the game:
