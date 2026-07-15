@@ -42,8 +42,8 @@ pip install pygame
 Clone the repository and open the project directory:
 
 ```bash
-git clone [<repository-url>](https://github.com/Tilro1707/AstroidShooter)
-cd asteroidShooter
+git clone https://github.com/Tilro1707/AstroidShooter.git
+cd AstroidShooter
 ```
 
 Start the game:
